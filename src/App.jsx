@@ -4,14 +4,14 @@ import './App.css';
 
 function App() {
   const handleContactClick = () => {
-    window.location.href = 'mailto:info@pugsleyinvestigations.com';
+    window.location.href = 'mailto:info@blackstonesolutions.com';
   };
 
   return (
     <Box sx={{ color: '#fff' }}>
       <Box
         component="img"
-        src="public/Private-Investigators-Uncovered.jpg"
+        src="Private-Investigators-Uncovered.jpg"
         alt="Pugsley Investigations"
         sx={{
           position: 'fixed',
@@ -26,20 +26,20 @@ function App() {
       <Box sx={{ position: 'relative', zIndex: 1, height: '90vh' }} />
       <Box sx={{ padding: '2rem', backgroundColor: 'rgba(0, 0, 0, 0.7)' }}>
         <Typography variant="h2" align="center" gutterBottom>
-          Pugsley Investigations
+          Blackstone Solutions
         </Typography>
         <Box sx={{ overflowY: 'scroll' }}>
           <Typography variant="h4" align="center" gutterBottom>
             About Us
           </Typography>
           <Typography variant="body1" paragraph>
-            Welcome to Pugsley Investigations, Denver's premier private investigation firm, where we bring clarity to complex situations. With over 10 years of experience in the field, our team of licensed and skilled investigators is dedicated to delivering accurate, timely, and discreet services tailored to meet your unique needs.
+            Welcome to Blackstone Solutions, Denver's premier private investigation firm, where we bring clarity to complex situations. With over 10 years of experience in the field, our team of licensed and skilled investigators is dedicated to delivering accurate, timely, and discreet services tailored to meet your unique needs.
           </Typography>
           <Typography variant="h5" align="center" gutterBottom>
             Our Mission
           </Typography>
           <Typography variant="body1" paragraph>
-            At Pugsley Investigations, our mission is to provide our clients with reliable and confidential investigative services. We understand the sensitive nature of our work and are committed to maintaining the highest standards of integrity and professionalism in every case we undertake.
+            At Blackstone Solutions, our mission is to provide our clients with reliable and confidential investigative services. We understand the sensitive nature of our work and are committed to maintaining the highest standards of integrity and professionalism in every case we undertake.
           </Typography>
           <Typography variant="h5" align="center" gutterBottom>
             Our Services
