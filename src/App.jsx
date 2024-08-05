@@ -11,7 +11,7 @@ function App() {
     <Box sx={{ color: '#fff' }}>
       <Box
         component="img"
-        src="./placeholder.jpg"
+        src="public/Private-Investigators-Uncovered.jpg"
         alt="Pugsley Investigations"
         sx={{
           position: 'fixed',
