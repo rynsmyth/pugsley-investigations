@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://rynsmyth.github.io/pugsley-investigations",
+  "homepage": "https://rynsmyth.github.io/pugsley-investigations/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
